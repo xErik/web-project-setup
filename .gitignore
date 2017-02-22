@@ -1,0 +1,10 @@
+/*
+!/package.json
+!/README.md
+!/src
+!/.gitignore
+!/docs
+!/docs/fonts
+!/CNAME
+.DS_Store
+/docs/.DS_Store
