@@ -1,5 +1,13 @@
+require('../css/index.css');
+
+$ = jQuery = require('jquery');
+_ = require('underscore');
+require('bootstrap');
+
 /*
 
-PLACE CUSTOM JAVASCRIPT HERE 
+REQUIRE CUSTOM JAVASCRIPT HERE
+
+require('./YOUR-STUFF.js');
 
 */
