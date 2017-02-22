@@ -2,6 +2,9 @@
 
 Create skeleton for website, including Bootstrap, Browserify, local server and automatic rebuild.
 
+The resulting package is set to private and a proprietary license.
+Also, the *raw code* of the website is not published to Github, only the compiled result.
+
 The resulting website is meant to be published on Github in the `docs` folder of a repository.
 
 # Prepare
@@ -24,4 +27,5 @@ The resulting website is meant to be published on Github in the `docs` folder of
 
 # TODO
 
-Automate settings of parameters.
+1. Automate setting of parameters.
+2. Publish to github via script, which also uglifies JS implicitly.
