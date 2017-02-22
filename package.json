@@ -27,18 +27,18 @@
     "build:watch": "parallelshell 'npm run build:init' 'npm run watch:js-css' 'npm run watch:static'"
   },
   "dependencies": {
-    "bootstrap": "^3.3.7",
-    "jquery": "^3.1.1",
-    "underscore": "^1.8.3"
+    "bootstrap": "latest",
+    "jquery": "latest",
+    "underscore": "latest"
   },
   "devDependencies": {
-    "browser-sync": "^2.17.0",
-    "browserify-css": "^0.9.2",
-    "copyfiles": "^1.0.0",
-    "mkdirp": "^0.5.1",
-    "parallelshell": "^2.0.0",
-    "uglifyify": "^3.0.3",
-    "watch": "^0.19.2"
+    "browser-sync": "latest",
+    "browserify-css": "latest",
+    "copyfiles": "latest",
+    "mkdirp": "latest",
+    "parallelshell": "latest",
+    "uglifyify": "latest",
+    "watch": "latest"
   },
   "browserify-css": {
     "autoInject": true,
